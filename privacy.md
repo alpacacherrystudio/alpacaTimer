@@ -49,7 +49,7 @@
 
 ## 6. 광고 (Google AdMob)
 
-앱 홈 화면과 약속 완료 화면 아래에 구글 애드몹 배너 광고가 나옵니다. **잠금 화면에는 광고를 넣지 않습니다.**
+앱 홈 화면, 잠금 화면, 약속 완료 화면 아래에 구글 애드몹 배너 광고가 나옵니다.
 
 - 광고를 보여 주기 위해 구글은 **광고 식별자(Advertising ID)**, 기기 정보(기종·OS 버전·언어 등), IP 주소,
   광고 조회·클릭 정보를 수집·처리할 수 있습니다.
@@ -97,7 +97,7 @@ The app shows **Google AdMob** banner ads to stay free; Google may process data 
   It does **not** read screen content, text you type, passwords, messages or notifications, and nothing is
   stored or transmitted. You can turn it off at any time in Android Settings → Accessibility.
 - **Vibrate:** for haptic ticks when turning the time dial.
-- **Ads (Google AdMob):** banner ads appear on the home and completion screens (never on the lock screen).
+- **Ads (Google AdMob):** banner ads appear at the bottom of the home, lock and completion screens.
   To serve ads, Google may collect and process the advertising ID, device information (model, OS version,
   language), IP address and ad interaction data, under the
   [Google Privacy Policy](https://policies.google.com/privacy) and
