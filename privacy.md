@@ -75,7 +75,7 @@
 ## 10. 문의
 
 - 개발자: 알파카체리스튜디오 (Alpaca Cherry Studio)
-- 이메일: alpacacherrystudio@gmail.com
+- 이메일: support@alpacacherrystudio.com
 
 ---
 
@@ -105,4 +105,4 @@ The app shows **Google AdMob** banner ads to stay free; Google may process data 
   The developer does not receive or store this data. You can reset or delete your advertising ID in
   Android Settings → Google → Ads.
 - **No other third parties:** the developer does not share or sell data. No analytics are used.
-- **Contact:** Alpaca Cherry Studio — alpacacherrystudio@gmail.com
+- **Contact:** Alpaca Cherry Studio — support@alpacacherrystudio.com
